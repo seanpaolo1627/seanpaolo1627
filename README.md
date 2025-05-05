@@ -12,6 +12,8 @@
 
 - 📫 How to reach me **seanpaolo_cameguing@yahoo.com**
 
+- 📄 Know about my experiences [https://github.com/seanpaolo1627/seanpaolo1627/blob/main/OJT%20Resume.pdf](https://github.com/seanpaolo1627/seanpaolo1627/blob/main/OJT%20Resume.pdf)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://fb.com/sean cameguing" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sean cameguing" height="30" width="40" /></a>
