@@ -2,7 +2,7 @@
   <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
 </div>
 <h1 align="center">Hi 👋, I'm Sean Paolo G. Cameguing</h1>
-<h3 align="center">A backend developer from the Philippines that knows Java, Python, Javascript and PHP</h3>
+<h3 align="center">A backend developer with experience in Java, Python, Javascript and PHP</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seanpaolo1627&label=Profile%20views&color=0e75b6&style=flat" alt="seanpaolo1627" /> </p>
 
