@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **Laravel, Django, Vue.js**
 
-- 📫 How to reach me **seanpaolo_cameguing@yahoo.com**
+- 📫 How to reach me **seancameguing@gmail.com**
 
 - 📄 Know about my experiences [https://github.com/seanpaolo1627/seanpaolo1627/blob/main/OJT%20Resume.pdf](https://github.com/seanpaolo1627/seanpaolo1627/blob/main/OJT%20Resume.pdf)
 
